@@ -1,5 +1,5 @@
 # C++ Resources and Materials
-##### This list was made for CS-142
+#### This list was made for CS-142
 #### Please let me know if there is anything you would like me to add
 ###### Note: This is just a list of stuff that I found personally useful
 #
