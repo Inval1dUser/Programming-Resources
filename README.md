@@ -7,7 +7,7 @@
 
 ## Cheat Sheets/Guides/References
 * [Codeacadamy](https://www.codecademy.com/resources/docs/cpp/arrays) 
-* [The Trendy Coder](https://thetrendycoder.com/the-ultimate-c-cheat-sheet/) - I really like this one
+* [The Trendy Coder](https://thetrendycoder.com/the-ultimate-c-cheat-sheet/)
 * [How to Program in C++](http://www.cheat-sheets.org/saved-copy/how2cpp.20210603.html)
 * [GeeksForGeeks C++ Cheat Sheet](https://www.geeksforgeeks.org/c-plus-plus/) - I like this one the most
 * [Quickref.me for C++](https://quickref.me/cpp) - This isn't the most in-depth resource out there, but it is a good quick reference cheat sheet. 
