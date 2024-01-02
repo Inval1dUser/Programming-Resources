@@ -26,6 +26,7 @@
   - [HackerRank for C++](https://www.hackerrank.com/domains/cpp)
     - In my opinion, better for practicing than [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/), but it does not have any of the same reference resources.
   - [FreeCodeCamp 31+ Hour C++ Course](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=8105s)
+  - [Open Source Projects](https://up-for-grabs.net/#/filters?tags=c%2B%2B)
 
 
 ## Note
